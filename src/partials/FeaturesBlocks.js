@@ -14,10 +14,9 @@ function FeaturesBlocks() {
         <div className="py-12 md:py-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Tailwind는 다시한번 해볼것</h2>
+            <h2 className="h2 mb-4">Tailwind 안 신기했나요?</h2>
             <p className="text-xl text-gray-600">
-              빠르게 작업하는데는 좋을수도 있겠다. 하지만 styled components 때도
-              느꼈는데 그냥 분리되어 있는게 더 편한거같기도 하다.
+              빠르게 작업하는데는 좋을거같아요. 큰 프로젝트하면 분리가 나을 수도?
             </p>
           </div>
 
@@ -60,10 +59,10 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
-                해야할건 너무 많은데
+                다들 오늘 HA 시작 잘하실거에요.
               </h4>
               <p className="text-gray-600 text-center">
-                뭐하나 제대로 할 수 있는게 없어서 걱정이다
+                물론 내일도 잘하실거구요!
               </p>
             </div>
 
@@ -101,10 +100,10 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
-                뭔가 만들어봐야해
+                솔로데이 때 뭐할건가요?
               </h4>
               <p className="text-gray-600 text-center">
-                개떡같은 결과물이라도 뭐라도 좀 만들어봐
+                노션, 블로그 정리하시는거 추천!
               </p>
             </div>
 
@@ -135,9 +134,9 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
-                만드는 과정에서 내가 필요한걸 찾게될거야
+                오늘 배포는 아주 귀여운거에요.
               </h4>
-              <p className="text-gray-600 text-center">그러면 공부가 되겠지</p>
+              <p className="text-gray-600 text-center">섹션3에서 AWS로 더 재밌게 하실거에요.</p>
             </div>
 
             {/* 4th item */}
@@ -180,10 +179,10 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
-                넌 어차피 아무것도 모르고 시작한거야 못하는게 당연해
+                AWS 섹션이나, 데브옵스 하면
               </h4>
               <p className="text-gray-600 text-center">
-                당연히 처음 만드는 결과물들도 개판일거고
+                저랑 다시 만날수도?
               </p>
             </div>
           </div>
