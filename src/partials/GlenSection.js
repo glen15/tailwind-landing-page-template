@@ -90,7 +90,7 @@ function Glen() {
                     className="btn text-white bg-gray-400 hover:bg-gray-800 w-full sm:w-auto sm:ml-4 transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-110 hover:-rotate-12"
                     href="#0"
                   >
-                    재밌네
+                    재밌지 않나요?
                   </a>
                 </div>
               </div>
@@ -100,7 +100,7 @@ function Glen() {
       </div>
       <div className="pt-4 pb-3 md:pt-5 md:pb-5 flex justify-center">
         <span className="text-2xl font-black ">
-          근데 왜 시험날 이런걸 시키냐고
+          HA 끝나고 솔로데이 때 다들 공부하시죠? 그때 한번 다시해보세요!
         </span>
       </div>
     </section>
